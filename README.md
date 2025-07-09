@@ -4,7 +4,7 @@ Exploring how GitHub works.
 ## About Me
 Hi! I'm **Renato**, an aspiring Junior Python Developer and Data Science enthusiast. I'm passionate about solving real-world problems using **Python**, **Pandas**, and **SQL**. I'm currently focused on building hands-on projects to strengthen my skills and create a solid foundation in data analysis and reporting.
 
-For now, I’m still exploring this platform and trying to understand how it works since it’s my first time using GitHub. I’m not very knowledgeable about it yet, but I’m eager to learn and gain hands-on experience as I go.
+This is my **first time using GitHub**, so I'm still learning the ropes — exploring how version control works and how I can use this platform effectively.  
+Though I'm not yet fully knowledgeable, I'm excited to learn and grow through consistent practice and experience.
 
-I'm using this repository as a starting point to get familiar with version control and project management as I work toward becoming a Python developer.
-
+This repository serves as my starting point in the journey to becoming a skilled Python developer.
